@@ -25,4 +25,6 @@ setup(
     test_suite="tests",
     entry_points={"console_scripts": ["youtubetobibtex=youtubetobibtex.cli:main"]},
     install_requires=["google-api-python-client"],
+    license="GPLv3",
+    keywords=["youtube", "bibtex"],
 )
