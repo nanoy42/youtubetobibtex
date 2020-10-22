@@ -2,6 +2,10 @@
 
 ## Version 0.1
 
+### Patch 0.1.1
+
+Fix publish action.
+
 ### Patch 0.1.0
 
 Youtubetobibtex is a small library to export information from a YouTube video in a bibtex format.
