@@ -6,7 +6,7 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Code style black](https://img.shields.io/badge/code%20style-black-000000.svg)]("https://github.com/psf/black)
 [![GitHub release](https://img.shields.io/github/release/nanoy42/youtubetobibtex.svg)](https://github.com/nanoy42/youtubetobibtex/releases/)
-![PyPI - Status](https://img.shields.io/pypi/status/youtubetobibtex)
+![PyPI - Status(https://pypi.org/project/youtubetobibtex/)](https://img.shields.io/pypi/status/youtubetobibtex)
 
 Youtubetobibtex is a small library to export information from a YouTube video in a bibtex format.
 
