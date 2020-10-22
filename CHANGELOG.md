@@ -2,6 +2,10 @@
 
 ## Version 0.1
 
+### Patch 0.1.2
+
+Fix publish action.
+
 ### Patch 0.1.1
 
 Fix publish action.
