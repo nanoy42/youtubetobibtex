@@ -10,10 +10,12 @@ black = "*"
 rope = "*"
 pylint = "*"
 pylint-django = "*"
+coveralls = "*"
+coverage = "*"
+pyyaml = "*"
 
 [packages]
 google-api-python-client = "*"
-coverage = "*"
 
 [requires]
 python_version = "3.8"

@@ -18,3 +18,9 @@ You can then install via setuptools
 .. code-block:: sh 
 
     python3 setup.py install
+
+Or you can install the dependencies via 
+
+.. code-block:: sh
+
+    pipenv install

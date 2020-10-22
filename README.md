@@ -68,3 +68,17 @@ python3 youtubetobibtex/cli.py https://youtube.com/watch?v=LkH2r-sNjQs secret
 * Allow to enable more information in the bibtex, using options in the class
 * Allow the command line interface to get the api key form file
 * Properly close the socket if the api key is wrong
+
+## Run the tests
+
+Command to run the tests : 
+
+```
+python3 setup.py
+```
+
+or with coverage
+
+```
+coverage run --source=youtubetobibtex/ setup.py test
+```
