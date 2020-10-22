@@ -13,6 +13,7 @@ pylint-django = "*"
 coveralls = "*"
 coverage = "*"
 pyyaml = "*"
+twine = "*"
 
 [packages]
 google-api-python-client = "*"

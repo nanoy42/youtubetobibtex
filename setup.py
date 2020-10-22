@@ -12,6 +12,7 @@ setup(
     auhtor_email="me@nanoy.fr",
     description="Get bibtex entry for a video from its url",
     long_description=long_description,
+    long_description_content_type="text/markdown",
     url="https://github.com/nanoy42/youtubetobibtex",
     classifiers=[
         "Development Status :: 4 - Beta",
