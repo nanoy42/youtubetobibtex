@@ -18,8 +18,5 @@ twine = "*"
 [packages]
 google-api-python-client = "*"
 
-[requires]
-python_version = "3.8"
-
 [pipenv]
 allow_prereleases = true
